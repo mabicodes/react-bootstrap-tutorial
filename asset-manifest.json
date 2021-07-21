@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-tutorial/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-bootstrap-tutorial/static/js/main.945a92fd.chunk.js",
+    "main.js.map": "/react-bootstrap-tutorial/static/js/main.945a92fd.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap-tutorial/static/js/runtime-main.5bebf2e8.js",
+    "runtime-main.js.map": "/react-bootstrap-tutorial/static/js/runtime-main.5bebf2e8.js.map",
+    "static/css/2.455652b6.chunk.css": "/react-bootstrap-tutorial/static/css/2.455652b6.chunk.css",
+    "static/js/2.d05f102b.chunk.js": "/react-bootstrap-tutorial/static/js/2.d05f102b.chunk.js",
+    "static/js/2.d05f102b.chunk.js.map": "/react-bootstrap-tutorial/static/js/2.d05f102b.chunk.js.map",
+    "static/js/3.38621422.chunk.js": "/react-bootstrap-tutorial/static/js/3.38621422.chunk.js",
+    "static/js/3.38621422.chunk.js.map": "/react-bootstrap-tutorial/static/js/3.38621422.chunk.js.map",
+    "index.html": "/react-bootstrap-tutorial/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/react-bootstrap-tutorial/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/react-bootstrap-tutorial/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d05f102b.chunk.js.LICENSE.txt": "/react-bootstrap-tutorial/static/js/2.d05f102b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-bootstrap-tutorial/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bebf2e8.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.d05f102b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.945a92fd.chunk.js"
+  ]
+}
